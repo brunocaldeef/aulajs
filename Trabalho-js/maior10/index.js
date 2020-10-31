@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//comentário
+>>>>>>> main
 const DEZ=10
 var Num = 10
 
